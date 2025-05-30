@@ -1,0 +1,7 @@
+{
+  "styleName": "text-overflow",
+  "items": {
+    "text-overflow": "\r\n.text-overflow\r\n{\r\n\toverflow: hidden;\r\n    text-overflow: ellipsis;\r\n    white-space: nowrap;\r\n}\r\n",
+    "text-align": ".text-align\r\n{\r\n    text-align: center;\r\n}\r\n\r\n"
+  }
+}

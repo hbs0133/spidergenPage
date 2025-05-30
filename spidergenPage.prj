@@ -1,0 +1,728 @@
+{
+  "projectName": "spidergenPage",
+  "fileTree": {
+    "type": 0,
+    "name": "spidergenPage",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 1,
+            "path": "Framework\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": [
+          {
+            "type": 5,
+            "name": "RadioBtnManager.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "spidergenPageApp_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          },
+          {
+            "type": 13,
+            "name": "NanumSquareR.ffl",
+            "action": 12,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 13,
+            "name": "Montserrat-Medium.ffl",
+            "action": 12,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "BtnStyle.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "text-overflow.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "checkbox.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": [
+          {
+            "type": 1,
+            "name": "fonts",
+            "children": [
+              {
+                "type": 8,
+                "name": "Montserrat-Medium.ttf",
+                "relType": 1,
+                "path": "\\"
+              },
+              {
+                "type": 8,
+                "name": "NanumSquareR.ttf",
+                "relType": 1,
+                "path": "\\"
+              }
+            ]
+          },
+          {
+            "type": 8,
+            "name": "ic_login.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "main_visual.jpg",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "spidergen_logo.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_spider.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_download.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_01.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_02.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_03_item_01.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_03_item_02.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_03_item_03.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content03_item_04.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_arrow_left.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_arrow_right.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_cloud_active.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_css_inactive.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_webserver_inactive.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_item_1.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_cloud_inactive.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_item_2.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_webserver_active.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_css_active.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_slide_item_3.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_content_05_bg.jpg",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "asoo_logo.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_home.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_answer.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_error.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_notice.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_writing.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_search.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_profile.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_01.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "asoocolor.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "asoosoft.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "spa_color.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "spidergen.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_02.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_04.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_05.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_06.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_07.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_08.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_12.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_13.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_14.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_15.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_16.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "img_company_17.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "spidergen_logo_login.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_signup_01.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_signup_04.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_check_off.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_check_on.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_close_03.png",
+            "relType": 1,
+            "path": "\\"
+          },
+          {
+            "type": 8,
+            "name": "ic_password.png",
+            "relType": 1,
+            "path": "\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 5,
+            "name": "spidergenPageApp.js",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 5,
+            "name": "MainView.js",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 3,
+            "name": "MainView.lay",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 1,
+            "name": "TabSubViews",
+            "children": [
+              {
+                "type": 5,
+                "name": "MainSubView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "MainSubView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "Blank.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "Blank.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "CommunitySubView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "CommunitySubView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "QnaView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "QnaView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "CompanyInfoSubView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "CompanyInfoSubView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "SignUpSubView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SignUpSubView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "SlideViewItems",
+            "children": [
+              {
+                "type": 5,
+                "name": "SlideViewItem1.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SlideViewItem1.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "SlideViewItem2.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\SlideViewItems\\\\"
+              },
+              {
+                "type": 3,
+                "name": "SlideViewItem2.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\SlideViewItems\\\\"
+              },
+              {
+                "type": 5,
+                "name": "SlideViewItem3.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\SlideViewItems\\\\"
+              },
+              {
+                "type": 3,
+                "name": "SlideViewItem3.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\SlideViewItems\\\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "ListViewItems",
+            "children": [
+              {
+                "type": 5,
+                "name": "CommunityListItem.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "CommunityListItem.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "NoticeListItem.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "NoticeListItem.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 5,
+                "name": "QnaListItem.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "QnaListItem.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "ModalViews",
+            "children": [
+              {
+                "type": 5,
+                "name": "LoginView.js",
+                "action": 9,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "LoginView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Resource",
+        "children": [
+          {
+            "type": 8,
+            "name": "common.json",
+            "relType": 1,
+            "path": "Resource\\"
+          }
+        ]
+      },
+      {
+        "type": 14,
+        "name": "index.html",
+        "relType": 1,
+        "path": ""
+      }
+    ]
+  },
+  "version": "4.2.2",
+  "flavor": {
+    "common": "common"
+  },
+  "defaultLanguage": "js"
+}

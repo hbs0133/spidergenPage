@@ -1,0 +1,31 @@
+<div data-base="AView" data-class="CommunityListItem" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255); cursor: pointer;" data-browser-height="110" name="communityListItem" data-browser-width="1000" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AImage&quot;,&quot;ALabel&quot;]}" id="CommunityListItem--communityListItem" data-listener-click="CommunityListItem:onCommunityListItemClick"
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; align-items: flex-start; left: 0px; top: 0px; position: relative; justify-content: flex-start; padding-top: 30px; padding-bottom: 30px; padding-left: 30px; border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-bottom: 1px solid rgb(217, 217, 217); cursor: pointer;" name="container"
+        ><div style="position: relative; box-sizing: border-box;"
+            ><img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 45px; position: relative; left: 0px; top: 0px; height: 42px;" id="CommunityListItem--img"
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 425px; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); margin-left: 30px;" name="info"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-family: NanumSquareR; color: rgb(47, 47, 47); font-size: 18px; font-weight: bold; background-color: rgba(0, 0, 0, 0);" id="CommunityListItem--title">Title</label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; color: rgb(89, 89, 89); font-size: 16px; font-family: NanumSquareR; margin-top: 5px;" id="CommunityListItem--info">Info</label
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 99px; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);" name="postCount"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-family: NanumSquareR; font-size: 18px; color: rgb(47, 47, 47); text-align: center;" id="CommunityListItem--postCount">PostCount</label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-size: 16px; color: rgb(153, 153, 153); font-family: NanumSquareR; text-align: center; margin-top: 10px;">포스트</label
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 99px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); left: 0px; top: 0px;" name="replyCount"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-family: NanumSquareR; font-size: 18px; color: rgb(47, 47, 47); text-align: center;" id="CommunityListItem--replyCount">ReplyCount</label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-size: 16px; color: rgb(153, 153, 153); font-family: NanumSquareR; text-align: center; margin-top: 10px;">답글</label
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 99px; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);" name="likeCount"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-family: NanumSquareR; font-size: 18px; color: rgb(47, 47, 47); text-align: center;" id="CommunityListItem--likeCount">LikeCount</label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; display: block; font-size: 16px; color: rgb(153, 153, 153); font-family: NanumSquareR; text-align: center; margin-top: 10px;">추천</label
+            ></div
+        ></div
+    ></div
+></div>

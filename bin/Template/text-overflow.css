@@ -1,0 +1,13 @@
+
+.text-overflow
+{
+	overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
+
+.text-align
+{
+    text-align: center !important;
+}
+

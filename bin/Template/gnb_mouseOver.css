@@ -1,0 +1,14 @@
+
+.edit_here
+{
+	/* TODO:edit here */
+
+}
+
+.gnb_mouseOver
+{
+    color: rgb(2, 191, 191) !important;
+    border-bottom: 4px solid rgb(2, 191, 191) !important;
+    cursor: pointer !important;
+}
+

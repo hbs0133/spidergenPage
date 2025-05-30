@@ -1,0 +1,6 @@
+{
+  "styleName": "Montserrat-Medium",
+  "items": {
+    "Montserrat-Medium": "\r\n@font-face {\r\n\tfont-family: 'Montserrat-Medium';\r\n\tsrc: url('Assets/fonts/Montserrat-Medium.ttf');\r\n\r\n}\r\n"
+  }
+}

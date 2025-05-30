@@ -1,0 +1,6 @@
+{
+  "styleName": "NanumSquareR",
+  "items": {
+    "NanumSquareR": "\r\n@font-face {\r\n\tfont-family: 'NanumSquareR';\r\n\tsrc: url('Assets/fonts/NanumSquareR.ttf');\r\n\r\n}\r\n"
+  }
+}

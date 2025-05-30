@@ -1,0 +1,11 @@
+{
+  "styleName": "BtnStyle",
+  "items": {
+    "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
+    "gnb_mouseOver": ".gnb_mouseOver\r\n{\r\n    color: rgb(2, 191, 191);\r\n    border-bottom: 4px solid rgb(2, 191, 191);\r\n    cursor: pointer;\r\n}\r\n\r\n",
+    "logo_bg": ".logo_bg\r\n{\r\n}\r\n\r\n",
+    "downloadBtn_over": ".downloadBtn_over\r\n{\r\n    background-color: rgba(255, 255, 255, 0.5);\r\n}\r\n\r\n",
+    "loginBtn-over": ".loginBtn-over\r\n{\r\n    background-color: rgb(2, 166, 166);\r\n}\r\n\r\n",
+    "duplication-confirm": ".duplication-confirm\r\n{\r\n    background-color: rgb(135, 135, 135);\r\n}\r\n\r\n"
+  }
+}

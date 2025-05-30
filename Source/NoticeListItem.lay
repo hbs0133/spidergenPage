@@ -1,0 +1,4 @@
+<div data-base="AView" data-class="NoticeListItem" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255); cursor: pointer;" data-browser-height="140" name="notice-list-item" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AImage&quot;,&quot;ALabel&quot;]}"
+    ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 17px; height: 15px; left: 0px; top: calc(50% - 7.5px); position: relative;" src="Assets/ic_notice.png" data-center-y="true"
+    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style text-overflow" style="width: 186px; height: auto; left: 0px; top: calc(50% - 7px); position: relative; font-size: 14px; color: rgb(51, 51, 51); font-family: NanumSquareR; margin-left: 10px;" data-center-y="true" name="notice" id="NoticeListItem--notice" data-style="text-overflow">Notice</label
+></div>

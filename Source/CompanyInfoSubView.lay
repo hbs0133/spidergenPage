@@ -1,0 +1,980 @@
+<div data-base="AView" data-class="CompanyInfoSubView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255);" data-browser-width="1610" data-browser-height="6718" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AImage&quot;]}" name="company-info-page"
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 1100px; height: auto; align-items: center; left: calc(50% - 549px); top: 0px; position: relative; flex-direction: column; justify-content: flex-start;" data-center-x="true" name="info-section"
+        ><div style="position: relative; box-sizing: border-box;"
+            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 128px; height: auto; top: 0px; position: relative; text-align: right; display: block; left: 0px; padding-right: 30px; font-family: NanumSquareR; color: rgb(119, 119, 119); background-image: url(&quot;Assets/ic_home.png&quot;); background-repeat: no-repeat; margin-left: 970px; padding-top: 50px; background-position: left bottom;" name="breadcrumb">main &gt; 커뮤니티</label
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; color: rgb(17, 17, 17); font-size: 34px; font-family: NanumSquareR; font-weight: bold; margin-top: 64px;" name="section1-title">가치있는 솔루션을 만드는 회사, 아수소프트</label
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; align-items: center; position: relative; left: 0px; top: 0px; margin-top: 34px; flex-direction: column; justify-content: flex-start; font-family: NanumSquareR; font-size: 16px; color: rgb(89, 89, 89); gap: 8px;" name="info" data-group="section1-info"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">(주)아수소프트는 소프트웨어 개발 및 서비스를 제공하는 회사로 2013년에 설립되었습니다.</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">다양한 증권 및 금융분야 고객사의 프로젝트를 수행하였고,</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">멀티 플랫폼 통합 개발환경(IDE)인 스파이더젠을 연구 개발하고 있습니다.</label
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 430px; height: 223px; position: relative; margin-top: 40px; left: 0px; top: 0px;" src="Assets/img_company_01.png" name="section1-img"
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; align-items: center; position: relative; margin-top: 34px; flex-direction: column; justify-content: flex-start; font-family: NanumSquareR; font-size: 16px; color: rgb(89, 89, 89); gap: 8px; left: 0px; top: 0px;" name="section1-info"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">(주)아수소프트는 "가치 있는 솔루션을 만드는 회사"를 기본 철학으로 하여</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">모든 고객들과 구성원이 함께 발전하고 성공하는 회사를 만드는 것이 목표입니다.</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">앞으로 더욱더 많은 고객들이 저희 솔루션을 통해 각 산업 분야에서 성공 할 수 있도록 최고의 파트너가 되겠습니다.</label
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(17, 17, 17); font-size: 34px; font-family: NanumSquareR; font-weight: bold; left: 0px; top: 0px; margin-top: 60px;" name="section2-tutle">산 높을 아(峨), 빼어날 수(秀), 아수소프트</label
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; margin-top: 25px; background-color: rgba(0, 0, 0, 0); left: 0px; top: 0px;" name="section2-imgs"
+                ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 690px; height: 220px; left: 0px; top: 0px; position: relative;" src="Assets/asoosoft.png"
+                ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 200px; height: 220px; left: 0px; top: 0px; position: relative; margin-left: 10px;" src="Assets/asoocolor.png"
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; align-items: center; position: relative; margin-top: 20px; flex-direction: column; justify-content: flex-start; font-family: NanumSquareR; font-size: 16px; color: rgb(89, 89, 89); gap: 8px; left: 0px; top: 0px;" name="section2-info"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">아수소프트의 "아수" 는 산 높을 아(峨), 빼어날 수(秀) 로 산이 높고 빼어나다는 의미입니다.</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">가치있고 뛰어난 소프트웨어를 만들겠다는 회사의 기본 철학을 담고 있으며, 최고, 신뢰를 의미하는 BLUE를 메인컬러로 사용하여
+                        <br
+                    ></label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신뢰할 수 있는 기업의 이미지를 나타내고 있습니다.
+                        <br
+                    ></label
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(17, 17, 17); font-size: 34px; font-family: NanumSquareR; font-weight: bold; margin-top: 60px; left: 0px; top: 0px;" name="section3-title">통합 플랫폼 개발 편집기 스파이더젠</label
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; margin-top: 25px; background-color: rgba(0, 0, 0, 0); left: 0px; top: 0px;" name="section3-imgs"
+                ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 690px; height: 220px; left: 0px; top: 0px; position: relative;" src="Assets/spidergen.png"
+                ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 200px; height: 220px; left: 0px; top: 0px; position: relative; margin-left: 10px;" src="Assets/spa_color.png"
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; align-items: center; position: relative; margin-top: 20px; flex-direction: column; justify-content: flex-start; font-family: NanumSquareR; font-size: 16px; color: rgb(89, 89, 89); gap: 8px; left: 0px; top: 0px; margin-bottom: 60px;" name="section3-info"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">SpiderGen은 Spider와 Generator의 합성어로, 거미줄과 같은 복잡한 인터넷 환경에서 동작하는,
+                        <br
+                    ></label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">다양한 응용 프로그램을 생산해 내는 솔루션이라는 의미를 담고 있습니다.
+                        <br
+                    ></label
+                ></div
+            ></div
+        ></div
+    ></div
+    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; left: 0px; top: 0px; position: relative; background-color: rgb(247, 247, 247);" name="history-section"
+        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: auto; align-items: center; position: relative; flex-direction: column; background-color: rgba(0, 0, 0, 0); gap: 20px; width: 1098px; left: calc(50% - 548px); top: 0px;" data-center-x="true" name="history"
+            ><div style="position: relative; box-sizing: border-box;"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(17, 17, 17); font-size: 34px; font-family: NanumSquareR; font-weight: bold; margin-top: 60px; left: 0px; top: 0px;" name="title">지속적인 발전을 이루고 있는 (주)아수소프트의 역사입니다.
+                    <br
+                ></label
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2024"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2024</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 18px; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">11</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">07</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">05</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); gap: 15px;" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 대체거래소 ATS 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 말레이시아거래소 파생상품청산결제(DCS)시스템 UI 업그레이드 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 스파이더젠 4.0 납품
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 대직원용시스템 업무 운영
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 AI Data 포탈 개발 및 운영
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">한국자금중개 WEB eFX시스템 구축 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2023"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2023</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; gap: 15px; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191);" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">05</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">04</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">01</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 통합자산관리 플랫폼(ODS) 구축 2차 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 PB모바일 운영 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 Mobile MAPIS 리뉴얼 및 총무 DT 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 데이터센터부 모바일 웹서비스 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 디지털브랜치시스템(ODS) 구축 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">KB증권 스펙 운영 및 고도화 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" data-group="2022"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2022</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; gap: 15px; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191);" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">09</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">06</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">05</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">01</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 통합자산관리플랫폼 개발 프로젝트 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신한은행 화상상담 서비스, 스파이더캅 솔루션 납품
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">한화투자증권 디지털 영업지원 인프라 구축 사업 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 신규 MTS 3차 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">유진투자증권 IT전산 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2021"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2021</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; gap: 15px; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191);" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">08</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">07</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">05</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">01</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 MTS 개발 프로젝트 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">KB증권 SPEC 앱 주식매매 기능 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 - 스탠다트차타드 모바일 화면 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">유진투자증권 간편투자앱 구축 프로젝트 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 - PB모바일 운영 도급 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 해외주식 MTS 화면 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">KB증권 SPEC APP 운영 및 고도화 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 MIS 대시보드 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2020"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2020</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; gap: 15px; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191);" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">06</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">03</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">01</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 스마트리핏 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 ODS 해외주식 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 비대면 계좌개설 모바일 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 홈페이지 리뉴얼 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">KB증권 개인전문투자자 모바일 앱 개발수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋캐피탈 홈페이지 추가개발 및 업무 운영
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">한국주택금융공사 HF 2단계 구축사업 인력지원
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2019"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2019</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">08</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">01</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">스파이더젠 3.0 베타 버전 출시
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">이베스트투자증권 웹퍼블리싱 업무 운영
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋대우 MFA 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">기술신용보증기금 스파이더젠 기술개발 자금 유치
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">중소기업진흥공단 일지매 스튜디오 개발 사업화 자금 유치
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">음성인식을 통한 프로그램 개발 시스템 특허출원(10-2019-0019407)
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">본사 사무실 이전</label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2018"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2018</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">10</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">06</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">04</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">03</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">소프트위즈 솔루션 납품 및 해외 업무 제휴
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">자본금 증자
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">양지출판사 바둑스터디 리뉴얼 프로젝트 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">이베스트투자증권 온라인 지식 기반 플랫폼 구축 프로젝트 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">국가 기술혁신개발형사업(R&amp;D)선정
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">벤처기업 인증
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 ODS 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">학습을 위한 기보 검색 방법 및 시스템 특허출원(출원번호 : 10-20180-0036861)
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">유진투자증권 크라우드펀딩을 통한 투자 유치(자본금 증자)
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">스파이더젠 상표등록(등록번호 : 40-1329769)
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2017"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2017</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">11</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">08</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">06</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">05</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">04</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">서울창조혁신경제센터 Startip IR 1위
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">한국가상화폐거래소 솔루션 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">미래에셋증권 차세대 프로젝트 개발 수주
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">국가 창업성장 기술개발사업(R&amp;D) 선정
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">기업부설연구소 인정
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">(주)아수소프트 법인전환
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2016"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2016</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">코스콤 MTS(Mobile Trading System) 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">한양증권, 부국증권, 케이프투자증권(LG투자증권), 골든브릿지, BNK투자증권
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2015"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2015</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">신영증권 MTS(Mobile Trading System) 개발
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2014"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2014</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">08</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">03</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">유창혁 모바일 앱 개발 / 유창혁 바둑교재 출판 프로그램 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">유창혁 바둑 프로그램, 사이트 개발
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+            ><div style="position: relative; box-sizing: border-box;"
+                ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 805px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px;" name="2013"
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 80px; height: auto; position: relative; left: 0px; top: 0px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51); font-weight: bold;" name="year">2013</label
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 65px; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 5px;" name="dot-line"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 10px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); border-radius: 50px;"></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box; flex-grow: 1;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 1px; position: relative; left: 0px; top: 0px; height: 100%; border-right: 1px solid rgb(2, 191, 191); background-color: rgb(2, 191, 191);"></label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 45px; height: 100%; align-items: stretch; position: relative; flex-direction: column; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 16px; color: rgb(2, 191, 191); gap: 15px;" name="month"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">12</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">06</label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">02</label
+                            ></div
+                        ></div
+                    ></div
+                    ><div style="position: relative; box-sizing: border-box;"
+                        ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 607px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column; gap: 15px; font-size: 16px; font-family: NanumSquareR; color: rgb(51, 51, 51);" name="info"
+                            ><div style="position: relative; box-sizing: border-box;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">응용프로그램 개발 툴 "스파이더젠" 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;" class=""
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">바둑 학습 및 교육 플랫폼 "일지매 온라인, 모바일" 개발
+                                    <br
+                                ></label
+                            ></div
+                            ><div style="position: relative; box-sizing: border-box;" class=""
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">아수소프트 설립
+                                    <br
+                                ></label
+                            ></div
+                        ></div
+                    ></div
+                ></div
+            ></div
+        ></div
+    ></div
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 1100px; height: auto; align-items: center; left: calc(50% - 549px); top: 0px; position: relative; flex-direction: column; padding-bottom: 40px;" data-center-x="true" name="partners-section"
+        ><div style="position: relative; box-sizing: border-box;" class=""
+            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(17, 17, 17); font-size: 34px; font-family: NanumSquareR; font-weight: bold; margin-top: 90px; left: 0px; top: 0px; margin-bottom: 60px;" name="title">증권/금융사 고객분들을 넘어 전 산업분야로 확장됩니다.</label
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 990px; height: 100%; align-items: stretch; position: relative; justify-content: space-between; left: 0px; top: 0px;" name="row1-imgs"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_02.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">코스콤</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_17.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">미래에셋증권</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_08.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">미래에셋캐피탈</label
+                    ></div
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 990px; height: 100%; align-items: stretch; position: relative; left: 0px; top: 0px; justify-content: space-between;" name="row2-imgs"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_04.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">신영증권</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_05.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">한국금융IT</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_06.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">이베스트투자증권</label
+                    ></div
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 990px; height: 100%; align-items: stretch; position: relative; justify-content: space-between; left: 0px; top: 0px;" name="row3-imgs"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_07.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">한국IBM</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_14.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">유진투자증권</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_15.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">한화투자증권</label
+                    ></div
+                ></div
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 990px; height: 100%; align-items: stretch; position: relative; justify-content: space-between; left: 0px; top: 0px;" name="row4-imgs"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_16.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">신한은행</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_12.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">소프트위즈</label
+                    ></div
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 280px; height: 179px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 10px; margin-top: 20px; margin-bottom: 20px;"
+                        ><img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 260px; height: 130px; left: calc(50% - 130px); top: 0px; position: relative; display: block;" data-center-x="true" src="Assets/img_company_13.png"
+                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; top: 0px; position: relative; margin-top: 14px; display: block; text-align: center; font-family: NanumSquareR; font-size: 16px; color: rgb(0, 0, 0);">KB증권</label
+                    ></div
+                ></div
+            ></div
+        ></div
+    ></div
+></div>

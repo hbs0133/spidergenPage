@@ -1,0 +1,6 @@
+{
+  "styleName": "checkbox",
+  "items": {
+    "checked": "\r\n.checked\r\n{\r\n    background-image: url(Assets/ic_check_on.png);\r\n\r\n}\r\n"
+  }
+}
