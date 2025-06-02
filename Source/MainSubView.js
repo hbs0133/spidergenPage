@@ -39,17 +39,24 @@ MainSubView = class MainSubView extends AView
     // 이전슬라이더 버튼함수
 	onSlidePrevBtnClick(comp, info, e)
 	{
-
-		this.slideView.slidePrev();
+        //무한 슬라이더
+        if(this.slideView.inx  != 0){
+            this.slideView.slidePrev();
+        }else{
+            this.slideView.slideTo(2)
+        }
 
 	}
 
     // 다음슬라이더 버튼함수
 	onSlideNextBtnClick(comp, info, e)
 	{
-
-		this.slideView.slideNext();
-
+        //무한 슬라이더
+        if(this.slideView.inx != 2){
+            this.slideView.slideNext();
+        }else{
+            this.slideView.slideTo(0)
+        }
 	}
 }
 

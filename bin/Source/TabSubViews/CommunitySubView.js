@@ -7,7 +7,7 @@ CommunitySubView = class CommunitySubView extends AView
 	constructor()
 	{
 		super()
-
+        
 		//TODO:edit here
 
 	}
@@ -41,17 +41,26 @@ CommunitySubView = class CommunitySubView extends AView
     this.noticeListView.addItem('Source/ListViewItems/NoticeListItem.lay', this.noticeData)
 
 
+
+ 
     // 재귀로드를 막기위한 조건문
     if(!isLoaded){
         this.communityPage.loadContainer('Source/TabSubViews/CommunitySubView.lay').then(cntr => {
-        let navi = new ANavigator('navi', cntr);
-
+         let navi = new ANavigator('navi', cntr);
         navi.registerPage('Source/TabSubViews/QnaView.lay', 'QnaPage');
         navi.registerPage('Source/TabSubViews/CommunitySubView.lay', 'CommunityPage')
 
         isLoaded = true;
+
+
+        console.log(navi)
+
     })
     }
+
+    
+
+
 
 
 

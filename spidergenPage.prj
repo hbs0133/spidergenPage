@@ -86,6 +86,14 @@
             "relType": 1,
             "path": "Template\\",
             "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "inputStyle.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
           }
         ]
       },

@@ -4,7 +4,7 @@ MainView = class MainView extends AView
 	{
 		super()
 
-		//모달 스크롤을 막기위한 변수선언
+		//모달상태 선언
         this.isModalOpen = false;
 
 	}
@@ -14,6 +14,7 @@ MainView = class MainView extends AView
 		super.init(context, evtListener)
 
 		//TODO:edit here
+
 
 	}
 
@@ -25,6 +26,9 @@ MainView = class MainView extends AView
         this.rbm = new RadioBtnManager(this);
 
         this.onTabClick(this.mainTab);
+
+
+
 	}
 
 	onActiveDone(isFirst)
@@ -33,15 +37,26 @@ MainView = class MainView extends AView
 
 		//TODO:edit here
 
+
+        
+
 	}
 
-// 탭 이동을 위한 탭클릭 함수
+// 탭클릭 함수
     async onTabClick(comp, info , e) {
 
         const componentId = await comp.getComponentId();
 
         this.rbm.selectButton(comp);
         this.tabView.selectTabById(componentId);
+
+    const navi = ANavigator.find('navi');
+    // 다른탭에서 커뮤니티 탭 클릭시 커뮤니티 탭 초기화 
+    if(navi && componentId == 'communityTab'){
+        navi.goPage('CommunityPage')
+    }
+
+
 
     }
 
@@ -56,8 +71,7 @@ MainView = class MainView extends AView
             isModal : true,
             isCenter : true,
             isFocusLostClose : true,
-            modalBgOption : "dark",
-            overflow : "hidden"
+            modalBgOption : "light",
         })
 
         //onWindowResult를 호출하는 함수.
@@ -92,7 +106,6 @@ MainView = class MainView extends AView
         // 모달 스크롤생성
         this.spidergenPage.setStyle('overflow', 'visible');
     };
-
     
 }
 

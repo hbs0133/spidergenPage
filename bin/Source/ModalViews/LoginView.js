@@ -53,6 +53,14 @@ LoginView = class LoginView extends AView
 
         this.getContainer().close(0, data)
 
+        console.log(this.owner.getParent().findCompById('tabView'))
+
+        // mainView의 TabView가져오기
+        const tabView = this.owner.getParent().findCompById('tabView')
+
+        // mainView로 이동
+        tabView.selectTabById('mainTab')
+
 
 	}
 
@@ -62,6 +70,8 @@ LoginView = class LoginView extends AView
 		//TODO:edit here
 
         this.getContainer().close();
+
+        
 
 	}
 }

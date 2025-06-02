@@ -48,7 +48,7 @@
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: 100px; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column;" name="input"
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="아이디를 입력해주세요."
+                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="아이디를 입력해주세요." data-style-focus="outline-none" name="idInput" id="SignUpSubView--idInput"
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
                             ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 9px; font-family: NanumSquareR; font-size: 14px; color: rgb(167, 167, 167);">영문 소문자,숫자만 허용(6자 이상)</label
@@ -56,7 +56,7 @@
                     ></div
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
-                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 120px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 10px; background-color: rgb(160, 160, 160); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 13px;" data-style-over="duplication-confirm" data-style-down="duplication-confirm">중복확인</button
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 120px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 10px; background-color: rgb(160, 160, 160); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 13px; cursor: pointer;" data-style-over="duplication-confirm" data-style-down="duplication-confirm">중복확인</button
                 ></div
             ></div
         ></div
@@ -71,7 +71,7 @@
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: 100px; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column;" name="input"
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="닉네임를 입력해주세요."
+                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="닉네임를 입력해주세요." data-style-focus="outline-none" name="nicknameInput" id="SignUpSubView--nicknameInput"
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
                             ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 9px; font-family: NanumSquareR; font-size: 14px; color: rgb(167, 167, 167);">한글,영문,숫자만 허용(한글2자 이상, 영문 4자 이상)</label
@@ -79,7 +79,7 @@
                     ></div
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
-                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 120px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 10px; background-color: rgb(160, 160, 160); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 13px;">중복확인</button
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 120px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 10px; background-color: rgb(160, 160, 160); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 13px; cursor: pointer;" data-style-over="duplication-confirm" data-style-down="duplication-confirm">중복확인</button
                 ></div
             ></div
         ></div
@@ -104,10 +104,10 @@
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: 120px; align-items: stretch; position: relative; left: 0px; top: 0px; flex-direction: column;" name="input"
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="비밀번호를 입력해주세요." name="password"
+                            ><input data-base="ATextField" data-class="ATextField" type="password" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="비밀번호를 입력해주세요." name="password" data-style="" data-style-focus="outline-none" id="SignUpSubView--passwordInput"
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="비밀번호를 다시 입력해주세요." name="password-confirm"
+                            ><input data-base="ATextField" data-class="ATextField" type="password" value="" class="ATextField-Style" autocomplete="off" style="width: 250px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px; margin-top: 10px;" placeholder="비밀번호를 다시 입력해주세요." name="password-confirm" data-style-focus="outline-none" id="SignUpSubView--passwordConfirmInput"
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
                             ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: auto; position: relative; left: 0px; top: 9px; font-family: NanumSquareR; font-size: 14px; color: rgb(167, 167, 167); width: 300px;">비밀번호는 6자 이상 사용해야합니다.</label
@@ -127,18 +127,18 @@
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; align-items: center; position: relative; left: 0px; top: 0px; flex-direction: row;"
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 209px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px;" placeholder="이메일을 입력해주세요."
+                            ><input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 209px; height: 35px; position: relative; left: 0px; top: 0px; font-family: NanumSquareR; font-size: 14px;" placeholder="이메일을 입력해주세요." data-style-focus="outline-none" id="SignUpSubView--emailInput"
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
                             ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 9px); font-size: 16px; font-family: NanumSquareR; margin-left: 6px;" data-center-y="true">@</label
                         ></div
                         ><div style="position: relative; box-sizing: border-box;"
-                            ><select data-base="ASelectBox" data-class="ASelectBox" class="ASelectBox-Style" style="width: 143px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 6px; font-family: NanumSquareR; font-size: 14px;"
-                                ><option value="value1">도메인 선택</option
-                                ><option value="value2">naver.com</option
-                                ><option value="value3">daum.net</option
-                                ><option value="value4">gmail.com</option
-                                ><option value="value5">직접입력</option
+                            ><select data-base="ASelectBox" data-class="ASelectBox" class="ASelectBox-Style" style="width: 143px; height: 35px; position: relative; left: 0px; top: 0px; margin-left: 6px; font-family: NanumSquareR; font-size: 14px;" id="SignUpSubView--emailDomainInput" name="emailDomainInput"
+                                ><option value="none">도메인 선택</option
+                                ><option value="naver.com">naver.com</option
+                                ><option value="daum.net">daum.net</option
+                                ><option value="gmail.com">gmail.com</option
+                                ><option value="&quot;&quot;">직접입력</option
                             ></select
                         ></div
                     ></div
@@ -174,7 +174,7 @@ you will end up having</pre
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AView" data-class="AView" class="AView-Style" style="height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; border-bottom: 0px solid rgb(0, 0, 0); width: 100%; margin-top: 25px;" name="checkbox"
-                        ><span data-base="ACheckBox" data-class="ACheckBox" class="ACheckBox-Style" tabindex="0" style="width: auto; height: auto; position: relative; margin-top: 15px; margin-left: 35px; display: inline; background-image: url(&quot;Assets/ic_check_off.png&quot;); padding-top: 2px; padding-bottom: 2px;" data-check-class="checked">이용약관에 동의합니다</span
+                        ><span data-base="ACheckBox" data-class="ACheckBox" class="ACheckBox-Style" tabindex="0" style="width: auto; height: auto; position: relative; margin-top: 15px; margin-left: 35px; display: inline; background-image: url(&quot;Assets/ic_check_off.png&quot;); padding-top: 2px; padding-bottom: 2px; cursor: pointer;" data-check-class="checked" id="SignUpSubView--termsCheck" data-check-value="true" data-uncheck-value="false">이용약관에 동의합니다</span
                         ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; font-size: 16px; color: rgb(255, 73, 73);">*</label
                     ></div
                 ></div
@@ -209,14 +209,14 @@ you will end up having</pre
                 ></div
                 ><div style="position: relative; box-sizing: border-box;"
                     ><div data-base="AView" data-class="AView" class="AView-Style" style="height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); font-family: NanumSquareR; border-bottom: 0px solid rgb(0, 0, 0); width: 100%; margin-top: 25px;"
-                        ><span data-base="ACheckBox" data-class="ACheckBox" class="ACheckBox-Style" tabindex="0" style="width: auto; height: auto; position: relative; margin-top: 11px; margin-left: 35px; display: inline; background-image: url(&quot;Assets/ic_check_off.png&quot;); padding-top: 2px; padding-bottom: 2px;" data-check-class="checked">개인정보 수집 및 이용에 동의 합니다.</span
+                        ><span data-base="ACheckBox" data-class="ACheckBox" class="ACheckBox-Style" tabindex="0" style="width: auto; height: auto; position: relative; margin-top: 11px; margin-left: 35px; display: inline; background-image: url(&quot;Assets/ic_check_off.png&quot;); padding-top: 2px; padding-bottom: 2px; cursor: pointer;" data-check-class="checked" id="SignUpSubView--policyTermsCheck" data-check-value="true" data-uncheck-value="false">개인정보 수집 및 이용에 동의 합니다.</span
                         ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 0px; position: relative; font-size: 16px; color: rgb(255, 73, 73);">*</label
                     ></div
                 ></div
             ></div
         ></div
         ><div style="position: relative; box-sizing: border-box; align-self: center;"
-            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 140px; height: 45px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 50px; margin-bottom: 50px;" name="btn-submit" data-style-over="loginBtn-over" data-style-down="loginBtn-over">가입 완료</button
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 140px; height: 45px; position: relative; left: 0px; top: 0px; background-color: rgb(2, 191, 191); color: rgb(255, 255, 255); font-family: NanumSquareR; font-weight: bold; font-size: 16px; border-radius: 3px; margin-top: 50px; margin-bottom: 50px;" name="btn-submit" data-style-over="loginBtn-over" data-style-down="loginBtn-over" data-listener-click="SignUpSubView:onsubmitBtnClick">가입 완료</button
         ></div
     ></div
 ></div>

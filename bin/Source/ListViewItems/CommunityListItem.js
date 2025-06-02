@@ -47,7 +47,8 @@ CommunityListItem = class CommunityListItem extends AView
 	{
 
         // Navigator설정
-        const navi = ANavigator.find('navi');
+        const navi = ANavigator.find('navi'); 
+        
 
         navi.goPage('QnaPage');
 	}
